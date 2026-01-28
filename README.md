@@ -1,4 +1,10 @@
 ## Hi there 👋
+My name is Efehan.
+I'm 18 years old.
+I'm currently studying in Bilkent University as a CS major.
+My future plan is enhancing myself in coding field.
+I enjoy playing table tennis and doing anything with my friends. 
+You can contact me via email.
 
 <!--
 **acarefehan-max/acarefehan-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
